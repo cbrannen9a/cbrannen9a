@@ -2,7 +2,7 @@
 
 Full stack developer with experience across a range of technologies and frameworks. I am passionate about delivering high quality products which provide positive user experiences. I have experience developing in a wide variety of languages and I am flexible in the approach used to provide the best solution. I am a self-driven learner, constantly seeking to improve my skills and knowledge to increase the quality of the work I produce.
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/cbrannen9a)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/brannenDev)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/cbrannen9a)
 
 ## &#x1f4c8; GitHub Stats
